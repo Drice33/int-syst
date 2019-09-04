@@ -18,7 +18,7 @@ Keepass est un gestionnaire de mots de passes qui permet de stocker tous ces mot
 
 ![](keepass.PNG)
 
-___Windows    (dossier windows)
-___Network    (réseau d'entreprise, wifi)
-___Internet   (mot de passe sur les listes web)
-___eMail      (mot de passe de la boite mail)
+___Windows    (dossier windows)     
+___Network    (réseau d'entreprise, wifi)     
+___Internet   (mot de passe sur les listes web)      
+___eMail      (mot de passe de la boite mail)      
