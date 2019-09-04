@@ -12,4 +12,7 @@ Sur l'ordinateur alors ? oui dans un fichier mais il faut que ce fichier soit s√
 
 Alors comment faire ? la solution retenue : **keepass**
 
-## Keypass 16 ans de savoir faire
+## Keepass 16 ans de savoir faire
+
+Keepass est un gestionnaire de mots de passes qui permet de stocker tous ces mots de passes dans un fichier unique. Ce fichier est bien sur chiffr√© avec un mot de passe complexe.
+!int-syst/images/keepass.png
