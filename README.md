@@ -22,3 +22,7 @@ Keepass est un gestionnaire de mots de passes qui permet de stocker tous ces mot
 **___Network    (réseau d'entreprise, wifi)**    
 **___Internet   (mot de passe sur les listes web)**         
 **___eMail      (mot de passe de la boite mail)**     
+
+## Ce qu'apporte Keepass
+
+Généralement, keepass chiffre au moins en 256 bits avec des protocoles comme ChaCha20, SHA-256. Ces chiffrements permettent de se protéger des attaques comme par exemple les attaques de dictionnaires.
