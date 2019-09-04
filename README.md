@@ -26,3 +26,6 @@ Keepass est un gestionnaire de mots de passes qui permet de stocker tous ces mot
 ## Ce qu'apporte Keepass
 
 Généralement, keepass chiffre au moins en 256 bits avec des protocoles comme ChaCha20, SHA-256. Ces chiffrements permettent de se protéger des attaques comme par exemple les attaques de dictionnaires.
+
+## Mise en pratique
+Mon mot de passe constitue un code 23 caractères composé de chiffre, lettre (miniscules et majuscules) ainsi que de signes spéciaux. Avec un telle durcissement et ue sécurité en SHA-512 (512 bits) les données sont bien protégées dans un fichier sécurisé.
