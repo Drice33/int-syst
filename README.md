@@ -16,4 +16,4 @@ Alors comment faire ? la solution retenue : **keepass**
 
 Keepass est un gestionnaire de mots de passes qui permet de stocker tous ces mots de passes dans un fichier unique. Ce fichier est bien sur chiffré avec un mot de passe complexe.
 
-!(int-syst/keepass.png)
+!(int-syst/keepass.PNG)
