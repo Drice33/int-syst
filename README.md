@@ -16,6 +16,7 @@ Alors comment faire ? la solution retenue : **keepass**
 ### Keepass 16 ans de savoir faire
 Keepass est un gestionnaire de mots de passes qui permet de stocker tous ces mots de passes dans un fichier unique. Ce fichier est bien sur chiffré avec un mot de passe complexe.
 ![](keepass.PNG)
+
 **___Windows    (dossier windows)**     
 **___Network    (réseau d'entreprise, wifi)**    
 **___Internet   (mot de passe sur les listes web)**         
