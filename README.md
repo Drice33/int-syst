@@ -32,7 +32,9 @@ Pour ce qui est de la sauvegarde des données, windows propose deux façons. Un 
 
 Avec le OneDrive on peut stocker nos dossier et données non personnel. Les sauvegardes sont rapides et automatiques (cloud).
 ![](onedrive.PNG)
+
 Avec la sauvegarde sur un disque dur externe c'est pas la même chose.
 ![](sauvegarde.PNG)
+
 Pour la récupération de données, 3 clics et c'est fait.
 ![](recuperation.PNG)
